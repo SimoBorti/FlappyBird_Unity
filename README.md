@@ -1,4 +1,4 @@
-# 🐤 Flappy Bird Clone (Unity & C#)
+# 🐤 Flappy Bird Clone (Unity & C#) - Windows only
 
 Una ricreazione in 2D del celebre gioco **Flappy Bird**, sviluppata con il motore di gioco **Unity** e il linguaggio **C#**. 
 
